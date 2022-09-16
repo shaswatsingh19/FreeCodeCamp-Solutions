@@ -1,4 +1,4 @@
-# Quiz (https://stunning-babka-01e7f6.netlify.app/)
+# Quiz https://stunning-babka-01e7f6.netlify.app/
 
 - Accessibility is making your webpage easy for all people to use – even people with disabilities.
 
