@@ -11,10 +11,10 @@
   .header {
     text-align: center;
     text-transform: uppercase;
-    padding: 32px;
+    padding: 2rem;
     background-color: #0a0a23;
     color: #fff;
-    border-bottom: 4px solid #fdb347;
+    border-bottom: 0.25rem solid #fdb347;
   }
   
   .gallery {
@@ -23,22 +23,22 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 16px;
-    max-width: 1400px;
+    gap: 1rem;
+    max-width: 87.5rem;
     margin: 0 auto;
-    padding: 20px 10px;
+    padding: 1.25rem 0.625rem;
   }
   
   .gallery img {
     width: 100%;
-    max-width: 350px;
-    height: 300px;
+    max-width: 21.875rem;
+    height: 18.75rem;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 0.625rem;
   }
   
   .gallery::after {
     content: "";
-    width: 350px;
+    width: 21.875rem;
   }
   
