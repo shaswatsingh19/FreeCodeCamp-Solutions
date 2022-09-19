@@ -1,4 +1,5 @@
-# Cafe App  https://ss-cafe-menu.netlify.app/
+# Photo Gallery  https://ss-cat-gallery.netlify.app/
 
-- CSS tells the browser how to display your webpage. 
-- You can use CSS to set the color, font, size, and other aspects of HTML elements.
+- Flexbox helps you design your webpage so that it looks good on any screen size.
+
+-  In this course, you'll use Flexbox to build a responsive photo gallery webpage.
